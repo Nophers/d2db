@@ -1,0 +1,7 @@
+{
+    "token": "bot-token",
+    "host": "server ip address",
+    "user": "admin",
+    "password": "",
+    "database": ""
+}

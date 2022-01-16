@@ -1,0 +1,5 @@
+pandas
+datetime
+asyncio
+mariadb
+aiohttp
